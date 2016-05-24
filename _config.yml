@@ -22,14 +22,14 @@ footer-links:
   facebook: nzauclement
   flickr:
   github: cnzau
-  instagram:
+  instagram: c.nzau
   linkedin: clement-nzau-24400476
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: clement_nzau
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/6154384/c-nzau
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: u/0/+ClementNzau/posts # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
