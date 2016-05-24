@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: clement.nzau@gmail.com
-  facebook: https://www.facebook.com/nzauclement
+  facebook: nzauclement
   flickr:
-  github: https://github.com/cnzau
+  github: cnzau
   instagram:
-  linkedin:
+  linkedin: clement-nzau-24400476
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: clement_nzau
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
