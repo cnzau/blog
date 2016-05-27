@@ -103,7 +103,7 @@ You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-sta
 - [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
 
 ## Credits
-
+- [Barry Clark](https://github.com/barryclark/jekyll-now) - Thanks to you man. Your good work helped me kick off.
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
 - [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
 - [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
