@@ -19,17 +19,17 @@ avatar: https://raw.githubusercontent.com/cnzau/blog/gh-pages/images/clement.jpg
 footer-links:
   dribbble:
   email: clement.nzau@gmail.com
-  facebook: nzauclement
   flickr:
   github: cnzau
-  instagram: c.nzau
   linkedin: clement-nzau-24400476
   pinterest:
   rss: # just type anything here for a working RSS icon
+  facebook: nzauclement
   twitter: clement_nzau
+  instagram: c.nzau
+  googleplus: u/0/+ClementNzau/posts # anything in your profile username that comes after plus.google.com/
   stackoverflow: users/6154384/c-nzau
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: u/0/+ClementNzau/posts # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
