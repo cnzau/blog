@@ -1,8 +1,0 @@
----
-layout: post
-title: GitHub Pages
----
-
-Hello Internet
-
-* Hi, This is my page
